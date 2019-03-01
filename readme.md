@@ -7,3 +7,4 @@ Flocks consisting of multiple species are found globally. They usually consist o
 <br><b>1.</b> Create a robust network analysis that is tested against multiple null models generated using the bounds of the data we collected, which has been found to be a better comparison than randomly generated null models. <br>
 <b>2.</b> Create a model using decision tree, random forest, and bagging for the order of actions the flock shows in reaction to the stimuli. The goal is too be able to predict the actions of the birds when we run the model, as that would suggest a robust model to describe the order of action. 
 
+![Accipiter](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjerPyvhuDgAhWawcQHHS4TDkwQjRx6BAgBEAU&url=http%3A%2F%2Fwww.bio-nica.info%2FALAS%2FDibujo%2FAccipiter%2520bicolor.html&psig=AOvVaw2VF1mF8kEoc5AZKbqkjZJz&ust=1551499009291458)
