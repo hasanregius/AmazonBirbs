@@ -1,0 +1,21 @@
+
+==========================
+Summary of model fit
+==========================
+
+Formula:   net ~ edges
+
+Iterations:  5 out of 20 
+
+Monte Carlo MLE Results:
+      Estimate Std. Error MCMC % z value Pr(>|z|)   
+edges   1.5261     0.4934      0   3.093  0.00198 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+     Null Deviance: 38.82  on 28  degrees of freedom
+ Residual Deviance: 26.28  on 27  degrees of freedom
+ 
+AIC: 28.28    BIC: 29.61    (Smaller is better.) 
+
+
